@@ -21,6 +21,4 @@ The vulnerability is in gena.cgi binary, the vulnerability that exists in the pa
 Since there is no proper validation process in the length of user-supplied data before copying it to a fixed-length stack-based buffer, an attacker can send more data to the local stack buffer and then parse it. This allows the attacker to perform a Pre-Authentication RCE.
 
 ## PoC
-<video width="320" height="240" controls>
-  <source src="D-Link_DIR-600_overflow.mp4" type="video/mp4">
-</video>
+The Proof-of-Concept and video are in the attach.
