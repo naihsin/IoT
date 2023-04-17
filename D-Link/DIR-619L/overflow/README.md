@@ -26,7 +26,7 @@ And the webRedirect call the send_r_moved_perm() which the second argument is v1
 ![5](img/5.png)
 In send_r_moved_perm function, the second parameter a2 which come from the v18 of formLogin(). Now it pass to the sprintf function as a argument, and concat with some html code,finally stored in v8, which just has 256 bytes of space.
 
-When getting the curTime from http request, the program did not check the length, so it can be crafted by hacker, and then cause Deny of Service or Pre-auth arbitrary code execution. 
+When getting the curTime from http request, the program did not check the length, so it can be crafted by hacker, and then cause Denial of Service or Pre-auth arbitrary code execution. 
 
 ## PoC
 The crafted http request can cause the router reboot.
