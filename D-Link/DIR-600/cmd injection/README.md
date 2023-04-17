@@ -22,6 +22,4 @@ Since there is no proper filter process in the user-supplied data before passing
 
 
 ## PoC
-<video width="320" height="240" controls>
-  <source src="D-Link_DIR-600_overflow.mp4" type="video/mp4">
-</video>
+The Proof-of-Concept and video are in the attach.
