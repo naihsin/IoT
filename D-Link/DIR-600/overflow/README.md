@@ -22,5 +22,5 @@ Since there is no proper validation process in the length of user-supplied data 
 
 ## PoC
 <video width="320" height="240" controls>
-  <source src="D-Link_DIR-600_overflow.mov" type="video/mp4">
+  <source src="D-Link_DIR-600_overflow.mp4" type="video/mp4">
 </video>
