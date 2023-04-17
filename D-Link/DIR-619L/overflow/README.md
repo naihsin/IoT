@@ -30,3 +30,5 @@ When getting the curTime from http request, the program did not check the length
 
 ## PoC
 The crafted http request can cause the router reboot.
+![DoS](img/DoS.png)
+
