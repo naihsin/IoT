@@ -8,6 +8,7 @@
 ## Affected version
 ![1](img/1.png)
 
+The hardware version is B1, the latest firmware version is 2.04.
 Figure 1 shows the latest firmware of the router
 
 ## Vulnerability Details
