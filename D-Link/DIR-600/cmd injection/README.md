@@ -14,7 +14,7 @@ Figure 1 shows the latest firmware of the router
 ![2](img/2.png)
 ![3](img/3.png)
 
-The content obtained by the program through ST parameters is passed to lxmlmdbc_system(). There is a command injection vulnerability.
+The content obtained by the program through ST parameters is passed to lxmldbc_system(). There is a command injection vulnerability.
 
 The vulnerability is in ssdp.cgi binary, the vulnerability that exists in the parsing of the HTTP request header field comes as input. 
 
