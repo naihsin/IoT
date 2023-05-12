@@ -22,4 +22,4 @@ Since there is no proper filter process in the user-supplied data before passing
 
 
 ## PoC
-The Proof-of-Concept and video are in the attach.
+The Proof-of-Concept video is in the attach.
