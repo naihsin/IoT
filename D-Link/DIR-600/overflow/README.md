@@ -21,4 +21,4 @@ The vulnerability is in gena.cgi binary, the vulnerability that exists in the pa
 Since there is no proper validation process in the length of user-supplied data before copying it to a fixed-length stack-based buffer, an attacker can send more data to the local stack buffer and then parse it. This allows the attacker to perform a Pre-Authentication RCE.
 
 ## PoC
-The Proof-of-Concept and video are in the attach.
+The Proof-of-Concept video is in the attach.
