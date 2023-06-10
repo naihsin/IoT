@@ -7,7 +7,7 @@
 
 ## Affected version
 - Hardware version B5
-- Firmware version 2.08
+- Firmware version 2.18
 
 ![1](img/1.png)
 
