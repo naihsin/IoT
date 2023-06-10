@@ -1,9 +1,9 @@
 # D-link DIR-600 cmd injection vulnerability
 
 ## Overview
-
-- Manufacturer's website information：https://www.dlink.com/
-- Firmware download address ： [https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600](https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600)
+- Vulnarable product: D-Link DIR-600
+- Manufacturer's website information: https://www.dlink.com/
+- Firmware download address: [https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600](https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600)
 
 ## Affected version
 - Hardware version B5
