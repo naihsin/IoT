@@ -1,11 +1,13 @@
 # D-link DIR-600 Stack overflow vulnerability
 
 ## Overview
-
-- Manufacturer's website information：https://www.dlink.com/
-- Firmware download address ： [https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600](https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600)
+- Vulnarable product: D-Link DIR-600
+- Manufacturer's website information: https://www.dlink.com/
+- Firmware download address: [https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600](https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600)
 
 ## Affected version
+- Hardware version: B5
+- Firmware version: 2.18
 ![1](img/1.png)
 
 Figure 1 shows the latest firmware of the router
