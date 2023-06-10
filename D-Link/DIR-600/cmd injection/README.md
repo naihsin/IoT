@@ -8,6 +8,7 @@
 ## Affected version
 - Hardware version B5
 - Firmware version 2.08
+
 ![1](img/1.png)
 
 Figure 1 shows the latest firmware of the router
