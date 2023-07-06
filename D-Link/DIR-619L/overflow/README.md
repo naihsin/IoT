@@ -1,14 +1,15 @@
 # D-link DIR-619L Stack overflow vulnerability
 
 ## Overview
-
+- Vulnarable product: D-Link DIR-619L
 - Manufacturer's website information：https://www.dlink.com/
 - Firmware download address ： [https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-619L](https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-619L)
 
 ## Affected version
+- Hardware version: B1
+- Firmware version: 2.04
 ![1](img/1.png)
 
-The hardware version is B1, the latest firmware version is 2.04.
 Figure 1 shows the latest firmware of the router
 
 ## Vulnerability Details
