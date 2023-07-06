@@ -31,6 +31,7 @@ In send_r_moved_perm function, the second parameter a2 which come from the v18 o
 When getting the curTime from http request, the program did not check the length, so it can be crafted by hacker, and then cause Denial of Service or Pre-auth arbitrary code execution. 
 
 ## PoC
+The Proof-of-Concept is in the attach.
 The crafted http request can cause the router reboot.
 ![DoS](img/DoS.png)
 
