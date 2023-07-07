@@ -1,7 +1,7 @@
-# D-link DIR-619L Stack overflow vulnerability
+# D-Link DIR-619L Stack overflow vulnerability
 
 ## Overview
-- Vulnarable product: D-Link DIR-619L
+- Vulnarable product: D-Link DIR-619L (TW version)
 - Manufacturer's website information：https://www.dlink.com/
 - Firmware download address ： [https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-619L](https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-619L)
 
