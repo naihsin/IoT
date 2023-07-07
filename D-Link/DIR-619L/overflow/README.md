@@ -8,10 +8,12 @@
 ## Affected version
 - Hardware version: B1
 - Firmware version: 2.04(TW)
+  
 ![1](img/1.png)
 ![](img/TW_version.jpg)
 
 Figure 1 shows the latest firmware of the router
+
 Figure 2 shows the product is TW version
 
 ## Vulnerability Details
