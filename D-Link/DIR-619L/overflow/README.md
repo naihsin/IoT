@@ -7,7 +7,7 @@
 
 ## Affected version
 - Hardware version: B1
-- Firmware version: 2.04
+- Firmware version: 2.04(TW)
 ![1](img/1.png)
 
 Figure 1 shows the latest firmware of the router
